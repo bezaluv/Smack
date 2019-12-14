@@ -1,9 +1,10 @@
-package com.milleb.smack
+package com.milleb.smack.Controller
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import com.milleb.smack.R
 
 class LoginActivity : AppCompatActivity() {
 
