@@ -97,7 +97,6 @@ class CreateUserActivity : AppCompatActivity() {
             enableSpinner(false)
         }
 
-
     }
 
     fun errorToast() {
